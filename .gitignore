@@ -1,0 +1,10 @@
+__pycache__
+.env
+node_modules
+package-lock.json
+*.pyc
+/tmp
+.idea
+tests_lambda
+data_test.py
+venv
