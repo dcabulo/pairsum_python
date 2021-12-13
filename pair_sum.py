@@ -42,5 +42,4 @@ class TwoPairSum:
         with open('./result.txt', 'w') as file:
             file.write('Pair of names founds are \n')
             file.write('\n'.join(result_array))
-        print("result.txt file is save in your root directory")
 

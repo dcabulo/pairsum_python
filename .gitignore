@@ -8,3 +8,4 @@ package-lock.json
 tests_lambda
 data_test.py
 venv
+result.txt
