@@ -4,7 +4,6 @@ from helpers import fetch_data
 class TwoPairSum:
     def __init__(self, input_number: int):
         self.input_number = input_number
-        self.result_list = []
         self.data = fetch_data()
 
     def two_sum_hashing(self):
